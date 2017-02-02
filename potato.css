@@ -39,7 +39,7 @@ h1 {
 /* Insert CSS for mouth below this line*/
 
 #mouth_image{
-  top: 40;}
+  top: 189px; left: 121px;}
 
 
 
@@ -60,7 +60,10 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
-
+#hat_image{
+  top:0px;
+  left:100px;
+}
 
 
 
@@ -76,7 +79,10 @@ h1 {
 
 /* Insert CSS for shoes below this line*/
 
-
+#shoes_image{
+  bottom:100px;
+  left:42px;
+}
 
 
 /* Insert CSS for cane below this line*/
